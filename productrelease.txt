@@ -1,0 +1,17 @@
+feature 2
+pseudo code
+{
+Product code()
+{
+  // Product Initial Code
+}
+Feature2 Code()
+{
+  // Sample feature2 code
+}
+if (true):
+{
+  // Release the Product Code
+}
+
+}
